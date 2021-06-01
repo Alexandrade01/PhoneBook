@@ -1,0 +1,10 @@
+C:\Users\alexa\Documents\programação\c# e windows forms\exercicios feitos 2021\Exercicios WindowsForms\Exercicio4WF\Exercicio4WF\bin\Debug\Exercicio4WF.exe.config
+C:\Users\alexa\Documents\programação\c# e windows forms\exercicios feitos 2021\Exercicios WindowsForms\Exercicio4WF\Exercicio4WF\bin\Debug\Exercicio4WF.exe
+C:\Users\alexa\Documents\programação\c# e windows forms\exercicios feitos 2021\Exercicios WindowsForms\Exercicio4WF\Exercicio4WF\bin\Debug\Exercicio4WF.pdb
+C:\Users\alexa\Documents\programação\c# e windows forms\exercicios feitos 2021\Exercicios WindowsForms\Exercicio4WF\Exercicio4WF\obj\Debug\Exercicio4WF.csprojAssemblyReference.cache
+C:\Users\alexa\Documents\programação\c# e windows forms\exercicios feitos 2021\Exercicios WindowsForms\Exercicio4WF\Exercicio4WF\obj\Debug\Exercicio4WF.Form1.resources
+C:\Users\alexa\Documents\programação\c# e windows forms\exercicios feitos 2021\Exercicios WindowsForms\Exercicio4WF\Exercicio4WF\obj\Debug\Exercicio4WF.Properties.Resources.resources
+C:\Users\alexa\Documents\programação\c# e windows forms\exercicios feitos 2021\Exercicios WindowsForms\Exercicio4WF\Exercicio4WF\obj\Debug\Exercicio4WF.csproj.GenerateResource.cache
+C:\Users\alexa\Documents\programação\c# e windows forms\exercicios feitos 2021\Exercicios WindowsForms\Exercicio4WF\Exercicio4WF\obj\Debug\Exercicio4WF.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Documents\programação\c# e windows forms\exercicios feitos 2021\Exercicios WindowsForms\Exercicio4WF\Exercicio4WF\obj\Debug\Exercicio4WF.exe
+C:\Users\alexa\Documents\programação\c# e windows forms\exercicios feitos 2021\Exercicios WindowsForms\Exercicio4WF\Exercicio4WF\obj\Debug\Exercicio4WF.pdb
